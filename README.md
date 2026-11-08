@@ -47,6 +47,8 @@ class Developer:
         self.technologies = [
             "Python",
             "FastAPI",
+            "SQLite",
+            "SQLAlchemy",
             "Visual Studio Code"
         ]
 
@@ -130,7 +132,8 @@ mindmap
         Beginner
     Backend
       FastAPI
-        Learning
+      SQLite
+      SQLAlchemy
     Development Tools
       Visual Studio Code
     Interests
@@ -152,7 +155,7 @@ Programming Languages
 
 <div align="center">
 
-
+<img src="https://skillicons.dev/icons?i=python" />
 
 </div>
 
@@ -160,7 +163,9 @@ Backend Development
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=fastapi,sqlite" />
 
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 
 </div>
 
@@ -171,7 +176,7 @@ Development Tools
 
 <div align="center">
 
-
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 
 
@@ -244,7 +249,11 @@ Inventory Management System
 
 A web application project focused on product and inventory management, developed as part of my learning journey in software development.
 
-Technologies: Python, FastAPI
+Technologies:
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite" />
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge"/>
 
