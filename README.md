@@ -2,11 +2,11 @@
 
 Welcome, I'm Richard Santos Silva
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Python+Developer+in+Training;Backend+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer;Python+Developer+in+Training;AI+%26+API+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <br/>
 
-Passionate about technology, software development and continuous learning
+Building my skills in software development, APIs, artificial intelligence and cloud computing
 
 <br/>
 
@@ -38,28 +38,32 @@ class Developer:
             "Portuguese"
         ]
 
-        self.specialties = [
-            "Python Programming",
-            "Backend Development",
-            "Web Applications"
-        ]
-
         self.technologies = [
             "Python",
             "FastAPI",
             "SQLite",
             "SQLAlchemy",
-            "Visual Studio Code"
+            "REST APIs",
+            "Groq API",
+            "AWS"
+        ]
+
+        self.tools = [
+            "VS Code",
+            "PowerShell",
+            "CMD",
+            "PuTTY"
         ]
 
         self.focus = [
-            "Programming Fundamentals",
-            "Software Development",
-            "Continuous Learning"
+            "Backend Development",
+            "Artificial Intelligence",
+            "Cloud Computing",
+            "Web Applications"
         ]
 
     def get_current_status(self):
-        return "Learning and building new projects"
+        return "Learning and building projects"
 
 </td>
 <td width="50%">
@@ -80,44 +84,56 @@ Professional Summary
 
 </div>
 
-Aspiring Full Stack Developer from São Vicente, Brazil, currently focused on learning Python programming and exploring backend development.
+Aspiring Full Stack Developer focused on learning software development, Python programming and web applications.
 
-Interested in building web applications, developing software solutions and expanding technical knowledge through practical projects.
+Currently developing practical skills in backend development, REST APIs, databases, artificial intelligence integrations and cloud computing.
 
-Currently working with Python and FastAPI, while continuously improving programming fundamentals and exploring new technologies.
+I have experience using Python, FastAPI, SQLite, SQLAlchemy, Groq API and Amazon AWS, along with development and command-line tools.
+
+I enjoy learning new technologies, solving problems and building projects to improve my technical knowledge.
 
 <div align="center">
 
-Professional Experience
+Learning Journey & Practical Experience
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 Current Focus
 
-Python Programming
+Python programming
 
-Backend Development
+Backend development with FastAPI
 
-FastAPI Applications
+REST API development
 
-Programming Fundamentals
+Database integration with SQLite and SQLAlchemy
+
+Web application development
+
+Git and GitHub
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-Learning Journey
+Additional Learning
 
-Software Development
+Generative AI integration
 
-Web Application Development
+Groq API
 
-Problem Solving
+Amazon AWS and EC2
 
-Practical Projects
+AWS Academy
+
+Computer Vision concepts
+
+Machine Learning concepts
+
+PowerShell, CMD and SSH connections with PuTTY
 
 </td>
 </tr>
@@ -129,17 +145,33 @@ mindmap
   root((Skills))
     Programming
       Python
-        Beginner
+      Programming Logic
+      Decision Structures
+      Code Refactoring
     Backend
       FastAPI
-      SQLite
-      SQLAlchemy
-    Development Tools
-      Visual Studio Code
-    Interests
-      Full Stack Development
+      REST APIs
       Web Applications
-      Software Development
+      SQLAlchemy
+    Databases
+      SQLite
+      Database Integration
+    Artificial Intelligence
+      Generative AI
+      Prompt Engineering
+      Groq API
+      Computer Vision
+      Machine Learning
+    Cloud Computing
+      Amazon AWS
+      Amazon EC2
+      AWS Academy
+    Development Tools
+      VS Code
+      PowerShell
+      CMD
+      PuTTY
+      Git and GitHub
 
 <div align="center">
 
@@ -151,32 +183,62 @@ Technology Stack
 <tr>
 <td width="50%" valign="top">
 
-Programming Languages
+Programming & Backend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
+
+
 
 </div>
 
-Backend Development
+APIs & Integrations
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,sqlite" />
 
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+
+
+</div>
+
+Database
+
+<div align="center">
+
+
+
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
+Artificial Intelligence
+
+<div align="center">
+
+
+
+
+
+</div>
+
+Cloud & Infrastructure
+
+<div align="center">
+
+
+
+
+
+</div>
+
 Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode" />
+
+
 
 
 
@@ -188,7 +250,7 @@ Development Tools
 
 <div align="center">
 
-Development Interests
+Additional Development Concepts
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -196,42 +258,77 @@ Development Interests
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/48/000000/code.png"/><br/>
-<b>Programming</b><br/>
-<sub>Learning Python</sub>
+<b>Programming Logic</b><br/>
+<sub>Decision Structures</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/settings.png"/><br/>
-<b>Backend</b><br/>
-<sub>FastAPI</sub>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/api.png"/><br/>
+<b>REST APIs</b><br/>
+<sub>API Concepts & Integration</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/code-file.png"/><br/>
-<b>Software</b><br/>
-<sub>Development</sub>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/><br/>
+<b>Generative AI</b><br/>
+<sub>Prompts & AI Integration</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/learning.png"/><br/>
-<b>Learning</b><br/>
-<sub>Continuous Improvement</sub>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/cloud.png"/><br/>
+<b>Cloud Computing</b><br/>
+<sub>AWS & EC2</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/database.png"/><br/>
+<b>Databases</b><br/>
+<sub>SQLite & SQLAlchemy</sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 Courses & Certifications
-
-
-
-Generative AI Programming — SENAI
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://img.icons8.com/color/64/000000/graduation-cap.png"/><br/>
+
+Generative AI Programming
+
+SENAI
+
+Course topics:
+
+Programming logic and Python fundamentals
+
+Prompt engineering
+
+Code correction and refactoring
+
+REST APIs and web applications
+
+Generative AI integration
+
+Groq API and AWS chatbot development
+
+Computer Vision concepts
+
+Machine Learning concepts
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 Featured Projects
 
@@ -241,23 +338,44 @@ Featured Projects
 <tr>
 <td align="center" width="100%">
 
-<img src="https://img.icons8.com/color/64/000000/box.png"/><br/>
+<img src="https://img.icons8.com/color/64/000000/warehouse.png"/>
 
 StockFlow
 
 Inventory Management System
 
-A web application project focused on product and inventory management, developed as part of my learning journey in software development.
+A web-based inventory management system currently under development, focused on organizing products and managing stock operations.
 
 Technologies:
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite" />
 
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+
+
+
 
 <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository-Private-lightgrey?style=for-the-badge"/>
 
-<sub>Private project — Source code not publicly available.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%">
+
+<img src="https://img.icons8.com/color/64/000000/chat.png"/>
+
+AI Chatbot — Groq API & AWS
+
+Generative AI Integration
+
+Practical experience developing a chatbot exercise using the Groq API and AWS as part of my Generative AI Programming studies.
+
+Technologies:
+
+
+
+
+
+<img src="https://img.shields.io/badge/Category-Coursework-blue?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -271,10 +389,19 @@ Languages
 
 <table align="center">
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
+
 <img src="https://img.icons8.com/color/48/000000/brazil.png"/><br/>
 <b>Portuguese</b><br/>
-<sub>Primary Language</sub>
+<img src="https://img.shields.io/badge/Language-Primary-success?style=for-the-badge"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.icons8.com/color/48/000000/usa.png"/><br/>
+<b>English</b><br/>
+<img src="https://img.shields.io/badge/Currently-Learning-blue?style=for-the-badge"/>
+
 </td>
 </tr>
 </table>
@@ -301,17 +428,15 @@ GitHub Analytics
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 "Every expert was once a beginner."
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Always+Learning+New+Technologies!;Building+My+Future+in+Tech!;One+Project+at+a+Time!" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Always+learning+and+building!;Turning+ideas+into+projects!;Growing+one+line+of+code+at+a+time!" alt="Footer Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=richardlgk11&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=richardlgk11&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 
 </div>
